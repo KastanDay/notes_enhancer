@@ -1,0 +1,19 @@
+
+
+# Building Documents
+
+nbdev_build_lib && nbdev_clean_nbs && nbdev_build_docs
+
+make docs_serve  
+
+
+
+https://nbdev.fast.ai/tutorial.html#Previewing-Documents-Locally
+
+
+jupyter notebook --port=8889 --no-browser
+
+
+nbdev_build_lib && nbdev_clean_nbs && nbdev_build_docs
+
+https://www.youtube.com/watch?v=Hrs7iEYmRmg&ab_channel=JeremyHoward
