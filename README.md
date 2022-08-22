@@ -26,3 +26,9 @@ gpt3.download_gpt3()
 
 notes.find_similar(gpt3)
 ```
+
+
+## Roadmap
+
+1. [RayCast](https://www.raycast.com/) extension w/ connection to live notion pages (and keep it fast with cacheing?)
+2. Keyword -> [Stable Difusion](https://github.com/huggingface/diffusers/releases/tag/v0.2.3) extension. 
