@@ -12,6 +12,14 @@
 2. Use content generation to **"finish your thought"** and extend your notes to make them more rich and searchable.
 3. **Search the web to enrich notes.** Use Wikipedia, Google knowledge graph for topics & people mentioned in your notes. Append that content to the bottom of your notes to make notes richer, and easily searchable. This is a positive feedback loop that helps make more connections between notes, as well.
 
+## Related work 
+
+* There's a new project: https://mem.ai/ Their AI isn't fully implemented yet (waitlist) but it seems like they have funding and might launch soon. They are the closest to what I'm looking for.
+
+* RemNote
+
+* MyMind
+
 ## Install
 
 @future `pip install .......`
